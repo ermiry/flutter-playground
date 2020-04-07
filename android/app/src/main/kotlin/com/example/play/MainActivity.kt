@@ -1,4 +1,4 @@
-package com.example.play
+package com.ermiry.playground
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
